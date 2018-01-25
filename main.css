@@ -4,7 +4,7 @@ body {
   margin: auto;
   font-family: sans-serif;
   background-color: #55f;
-  //background-image: url("https://static.pexels.com/photos/375732/pexels-photo-375732.jpeg");
+  background-image: url("https://static.pexels.com/photos/375732/pexels-photo-375732.jpeg");
 }
 
 header {
@@ -47,7 +47,8 @@ header {
 
 .image-container {
   margin: auto;
-  padding: 10px
+  padding: auto;
+  opacity: 1.0;
 }
 
 .image-container img {
