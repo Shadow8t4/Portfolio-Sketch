@@ -48,11 +48,19 @@ header {
 .image-container {
   margin: auto;
   padding: auto;
-  opacity: 1.0;
 }
 
 .image-container img {
   background: #fff;
   padding: 5px;
   margin: auto;
+  margin-top: 50px;
+}
+
+.video {
+  background: #fff;
+  padding: 5px;
+  margin: auto;
+  padding: auto;
+  transform: scale(0.75);
 }
